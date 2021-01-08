@@ -37,11 +37,19 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 > Ce sont ces informations qui me permettront de vous noter, si vous ne vous présentez pas ici, je ne pourrais pas vous noter :)
 
 Noms des étudiants : 
+<<<<<<< HEAD
 * Lefevre Florian
 * Espern Thibault
 * Nom Prénom
 
 Date du jour : 08/01/2021
+=======
+* Nom Prénom
+* Nom Prénom
+* Nom Prénom
+
+Date du jour : 00/00/0000
+>>>>>>> 1f78b4b202d523abfe08c94f4e7302afe9a01fe9
 
 Tout est ok ? 
 Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** dépôt donc, puisque vous l'avez forké).
